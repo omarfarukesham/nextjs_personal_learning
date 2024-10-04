@@ -17,6 +17,9 @@ const Navbar = () => {
             <Link className='link' href='/about/user'>
                 User
             </Link>
+            <Link className='link' href='/profile'>
+                Profile
+            </Link>
            </div>
         </ul>
     </nav>
